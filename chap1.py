@@ -1,1 +1,2 @@
-def 1 
+def a_fun(x):
+    return x
